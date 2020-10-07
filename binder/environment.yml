@@ -12,9 +12,6 @@ dependencies:
   - scikit-learn
   - matplotlib
   - h5py
-  - pytorch
-  - torchvision
-  - cpuonly
   - pip:
     - onnxmltools
     - onnxruntime
